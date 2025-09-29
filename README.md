@@ -67,7 +67,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/ваш-логин/saas-ecommerce.git
+git clone https://github.com/fosspor/saas-ecommerce.git
 cd saas-ecommerce
 
 # Создание .env файла
